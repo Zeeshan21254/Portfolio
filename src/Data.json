@@ -1,0 +1,422 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/download.png",
+      "title": "Zeeshan <br /> Ali",
+      "subTitle": "Hello, I’m",
+      "designation": "Web Developer"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/professional.jpeg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Zeeshan Ali",
+    "subtitle": "Full Stack Web Developer",
+    "text": "I am a Web Developer specializing in creating dynamic and responsive websites. Web development involves designing, coding, and modifying websites to suit user requirements and enhance user experience. My goal is to build visually appealing, user-friendly, and efficient websites that help clients achieve their digital objectives.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "Dec 12, 1997"
+      },
+      {
+        "title": "Phone",
+        "info": "+971 58 253 9676"
+      },
+      {
+        "title": "Email",
+        "info": "Zeeshan.ali.ghulam.nabi@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Dubai, United Arab Emirates "
+      },
+      {
+        "title": "Language",
+        "info": "English, Hindi, Urdu, Punjabi"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "Web App Development",
+        "text": "Transform your vision into reality with expert web development. Specializing in responsive design, e-commerce solutions, and WordPress development. Offering seamless API integration, SEO optimization.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "CMS Development",
+        "text": "Empower your business with custom CMS solutions. I create user-friendly, scalable, and secure content management systems. From design to deployment, ensuring easy content updates and seamless functionality.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Mobile App Development",
+        "text": "Elevate your business with custom app development. Specializing in intuitive, scalable, and high-performance mobile and web applications. From concept to launch, ensuring seamless user experience.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      }
+      
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "Offering top-notch custom website and app development services. Specializing in responsive design, e-commerce solutions, API integration, SEO optimization, and maintenance. Transforming your vision into seamless, scalable, and high-performance digital experiences.",
+    "skills": [
+      {
+        "title": "React.js",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Next.js",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Node.js",
+        "progress": "92%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "GraphQL",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Mongo DB",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "MYSQL",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "API Integrations",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Typescript",
+        "progress": "88%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "AWS",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/primex.png",
+        "imgLinkLg": "./images/portfolio/primexlarge.png",
+        "title": "PrimeX Website",
+        "subTitle": "A comprehensive and responsive website built on NEXT.js, featuring modern design and seamless functionality.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/chatsm.png",
+        "imgLinkLg": "./images/portfolio/chatlarge.png",
+        "title": "Chat Widget",
+        "subTitle": "A dynamic and interactive chat widget built on React, offering real-time communication and seamless integration.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/dashboardsm.png",
+        "imgLinkLg": "./images/portfolio/dashboard.png",
+        "title": "Admin Dashboard for Chat Support Team",
+        "subTitle": "A robust admin dashboard built on React, Node.js, and MongoDB, designed for efficient chat support team management and performance monitoring.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/dictionaryishsm.png",
+        "imgLinkLg": "./images/portfolio/dictionaryish.png",
+        "title": "Dictionaryish",
+        "subTitle": "An educational platform for kids, built on React, GraphQL, MySQL, and Node.js, designed to make learning fun and interactive.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/Alistsm.png",
+        "imgLinkLg": "./images/portfolio/Alist.png",
+        "title": "Alist Security",
+        "subTitle": "A professional and secure website for a security company, built on React, featuring modern design and robust functionality.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/brzasm.png",
+        "imgLinkLg": "./images/portfolio/brza.jpeg",
+        "title": "Brza",
+        "subTitle": "An e-commerce platform built on React Native, offering a seamless shopping experience with a user-friendly interface and efficient performance.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Hasan Albadallah",
+        "designation": "Marketing Manager",
+        "text": "Zeeshan exceeded my expectations in developing a responsive and user-friendly blog for me. He was professional, communicative, and very knowledgeable. The project was completed on time, and he went above and beyond to ensure everything was perfect."
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Ehab Badway",
+        "designation": "Managing Director",
+        "text": "Working with Zeeshan was an absolute pleasure. He developed a custom website for my photography business that perfectly captures the essence of my brand. His attention to detail and dedication to delivering a high-quality product were evident throughout the entire process."
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Ahmed Alaarji",
+        "designation": "Founder & CEO",
+        "text": "Zeeshan exceeded my expectations in developing a responsive and user-friendly Website for me. He is professional, communicative, and very knowledgeable. The project was completed on time, and he went above and beyond to ensure everything was perfect."
+      }
+      
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Software Development Supervisor",
+        "duration": "Sep 2023 - Present",
+        "subTitle": "PrimeX Broker",
+        "text": "Leading a team of developers in designing, implementing, and maintaining software solutions. Overseeing project management, ensuring code quality, and facilitating collaboration to deliver high-performance applications."
+      },
+      {
+        "title": "FUll Stack Developer",
+        "duration": "sep 2022 - Sep 2023",
+        "subTitle": "Hive Digital Solutions",
+        "text": "Developed and maintained web applications using the MERN stack. Implemented responsive design, optimized performance, and integrated third-party APIs. Collaborated with cross-functional teams to deliver robust and scalable solutions."
+      },
+      {
+        "title": "FUll Stack Developer | Team Lead",
+        "duration": "Mar 2022 - Jul 2022",
+        "subTitle": "Hashlogics",
+        "text": "Led a team of developers in building and maintaining full-stack web applications. Managed project timelines, ensured quality code delivery, and facilitated communication between team members and stakeholders. Focused on enhancing user experience and application performance."
+      },
+      {
+        "title": "FUll Stack Developer",
+        "duration": "Feb 2021 - Feb 2022",
+        "subTitle": "Data Magnetics",
+        "text": "Developed and maintained full-stack web applications using modern technologies. Collaborated with designers and product managers to implement new features. Optimized application performance and ensured seamless user experiences."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor of Computer Science",
+        "duration": "2016 - 2020",
+        "subTitle": "University of Lahore",
+        "text": "Completed a comprehensive program focusing on software development, algorithms, and data structures. Gained hands-on experience in web development, mobile app development, and database management."
+      },
+      {
+        "title": "Full Stack Development Disploma",
+        "duration": "2019 - 2019",
+        "subTitle": "Ideoversity",
+        "text": "Completed an intensive program focused on full-stack development. Acquired hands-on experience in building web applications, mastering both front-end and back-end technologies. Covered key concepts in software development, algorithms, and database management."
+      },
+      {
+        "title": "FSC Pre Engineering ",
+        "duration": "2016 - 2014",
+        "subTitle": "Punjab College",
+        "text": "Studied advanced mathematics, physics, and chemistry, laying a strong foundation for engineering principles. Developed problem-solving skills and analytical thinking through rigorous coursework and practical labs."
+      },
+      {
+        "title": "Matric",
+        "duration": "2013 - 2011",
+        "subTitle": "DPS",
+        "text": "Completed secondary education with a focus on science subjects, achieving high grades in mathematics, physics, and chemistry. Developed a strong academic foundation and critical thinking skills."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "Feel free to reach out to me for any inquiries, project discussions, or collaborations. I'm here to help you with your web development needs!"
+  },
+  "socialData": [
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/zeeshan-ali-a990b3154/"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "/github"
+    }
+  ]
+}
