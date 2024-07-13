@@ -17,6 +17,7 @@ const SocialLinks = ({ data }) => {
           className={index === activeLink ? 'st-social-btn active' : 'st-social-btn'}
           onMouseEnter={() => handleIconHover(index)}
           key={index}
+          target='_blank'
         >
           <span className="st-social-icon"><Icon icon={`fa6-brands:${item.icon}`} /></span>
           <span className="st-icon-name">{item.title}</span>

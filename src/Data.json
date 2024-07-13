@@ -5,7 +5,7 @@
       "imgLink": "/images/download.png",
       "title": "Zeeshan <br /> Ali",
       "subTitle": "Hello, I’m",
-      "designation": "Web Developer"
+      "designation": "Full Stack Developer"
     },
     "homeTwoHero": {
       "imgAuthor": "/images/section/hero-img.jpg",
@@ -27,8 +27,8 @@
     }
   },
   "aboutData": {
-    "imgLink": "/images/professional.jpeg",
-    "cvPdf": "/images/Resume.pdf",
+    "imgLink": "/images/zeeshan.png",
+    "cvPdf": "/images/zeeshan-ali-full-stack-developer.pdf",
     "title": "Hi There! I'm Zeeshan Ali",
     "subtitle": "Full Stack Web Developer",
     "text": "I am a Web Developer specializing in creating dynamic and responsive websites. Web development involves designing, coding, and modifying websites to suit user requirements and enhance user experience. My goal is to build visually appealing, user-friendly, and efficient websites that help clients achieve their digital objectives.",
@@ -54,13 +54,10 @@
         "info": "English, Hindi, Urdu, Punjabi"
       },
       {
-        "title": "Freelance",
-        "info": "Available"
-      },
-      {
-        "title": "Freelance",
+        "title": "Availability",
         "info": "Available"
       }
+     
     ]
   },
   "serviceData": {
@@ -82,7 +79,7 @@
         "delay": "300"
       },
       {
-        "imgLink": "./images/icon/icon3.png",
+        "imgLink": "./images/icon/icon4.png",
         "title": "Mobile App Development",
         "text": "Elevate your business with custom app development. Specializing in intuitive, scalable, and high-performance mobile and web applications. From concept to launch, ensuring seamless user experience.",
         "effect": "zoom-out-up",
@@ -120,6 +117,13 @@
       {
         "title": "GraphQL",
         "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Web Sockets",
+        "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
@@ -347,13 +351,13 @@
       },
       {
         "title": "FUll Stack Developer",
-        "duration": "sep 2022 - Sep 2023",
+        "duration": "sep 2022 - Sep 2023 ( 1 Yr Contract )",
         "subTitle": "Hive Digital Solutions",
         "text": "Developed and maintained web applications using the MERN stack. Implemented responsive design, optimized performance, and integrated third-party APIs. Collaborated with cross-functional teams to deliver robust and scalable solutions."
       },
       {
         "title": "FUll Stack Developer | Team Lead",
-        "duration": "Mar 2022 - Jul 2022",
+        "duration": "Mar 2022 - Jul 2022 ( Project Based ) ",
         "subTitle": "Hashlogics",
         "text": "Led a team of developers in building and maintaining full-stack web applications. Managed project timelines, ensured quality code delivery, and facilitated communication between team members and stakeholders. Focused on enhancing user experience and application performance."
       },
@@ -373,7 +377,7 @@
         "text": "Completed a comprehensive program focusing on software development, algorithms, and data structures. Gained hands-on experience in web development, mobile app development, and database management."
       },
       {
-        "title": "Full Stack Development Disploma",
+        "title": "Full Stack Development Course",
         "duration": "2019 - 2019",
         "subTitle": "Ideoversity",
         "text": "Completed an intensive program focused on full-stack development. Acquired hands-on experience in building web applications, mastering both front-end and back-end technologies. Covered key concepts in software development, algorithms, and database management."
