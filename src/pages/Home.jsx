@@ -23,6 +23,7 @@ const Home = () => {
       <ReviewSection data={reviewData} data-aos="fade-right" />
       {/* <BlogSection data={blogData} data-aos="fade-right" /> */}
       <Contact data={contactData} socialData={socialData} data-aos="fade-right" />
+      
     </>
   )
 }
